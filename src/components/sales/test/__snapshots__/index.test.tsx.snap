@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SalesComponent /> should render and match the snapshot 1`] = `
+<header
+  class="sc-gsnTZi drncPl"
+>
+  <div
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col"
+      >
+        <img
+          alt="logo"
+          class="sc-bczRLJ RuITL"
+          src="sample-logo.png"
+        />
+      </div>
+      <div
+        class="col"
+      >
+        <nav
+          class="sc-dkzDqf dEMIWt"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            href="/sales"
+          >
+            Sales
+          </a>
+          <a
+            href="/articles"
+          >
+            Articles
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+`;
